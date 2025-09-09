@@ -79,7 +79,7 @@ Prazer me chamo Matheus da Silva Ferreira, tenho 20 anos e sou natural do interi
 ### 📊 Estatísticas
 
 <p>
-  <img 
+     <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
